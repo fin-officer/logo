@@ -31,6 +31,22 @@ HTML:
 </div>
 
 <div style="background-color: black;">
+  <span style="color: #509BF5;">Color 1</span>
+  <span style="color: #FCE38A;">Color 2</span>
+</div>
+
+<hr>
+
+<div style="background-color: white;">
+  <span style="color: #FF6B6B;">Color 1</span>
+  <span style="color: #06D6A0;">Color 2</span>
+</div>
+
+
+
+
+
+<div style="background-color: white;">
   <span style="color: #FF6B6B;">Color 1</span>
   <span style="color: #06D6A0;">Color 2</span>
 </div>
