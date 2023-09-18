@@ -69,14 +69,15 @@ HTML:
 
 <hr>
 
- #1e355e blue
- #3fac48 green
+ + blue #1e355e 
+ + green #3fac48
 
+white
 <div style="background-color: white; font-weight: bolder; font-size:20pt;">
   <span style="color: #1e355e;"> Fin</span><span style="color: #3fac48;">Officer</span>
 </div>
 
-
+blue
 <div style="background-color: #1e355e; font-weight: bolder; font-size:20pt;">
   <span style="color: white;"> Fin</span><span style="color: #3fac48;">Officer</span>
 </div>
