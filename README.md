@@ -97,6 +97,18 @@ White
 
 blue
 <div style="background-color: #364048; font-weight: bolder; font-size:20pt;">
+  <span style="color: white;"> Fin</span><span style="color: #ccc;">Officer</span>
+</div>
+
+---
+
+White
+<div style="background-color: white; font-weight: bolder; font-size:20pt;">
+  <span style="color: #364048;"> Fin</span><span style="color: #ccc;">Officer</span>
+</div>
+
+blue
+<div style="background-color: #364048; font-weight: bolder; font-size:20pt;">
   <span style="color: #ff0;"> Fin</span><span style="color: #ccc;">Officer</span>
 </div>
 
