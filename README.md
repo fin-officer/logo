@@ -73,12 +73,12 @@ HTML:
  #3fac48 green
 
 <div style="background-color: white; font-weight: bolder; font-size:20pt;">
-  <span style="color: #1e355e;">Color 1</span>
-  <span style="color: #3fac48;">Color 2</span>
+  <span style="color: #1e355e;">Fin</span>
+  <span style="color: #3fac48;">Officer</span>
 </div>
 
 
 <div style="background-color: black; font-weight: bolder; font-size:20pt;">
-  <span style="color: white;">Color 1</span>
-  <span style="color: #3fac48;">Color 2</span>
+  <span style="color: white;">Fin</span>
+  <span style="color: #3fac48;">Officer</span>
 </div>
