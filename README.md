@@ -80,3 +80,20 @@ HTML:
 <div style="background-color: #1e355e; font-weight: bolder; font-size:20pt;">
   <span style="color: white;"> Fin</span><span style="color: #3fac48;">Officer</span>
 </div>
+
+<hr>
+
++ yellow #ff0
++ orange #efc102
++ gray #364048
+
+
+White
+<div style="background-color: white; font-weight: bolder; font-size:20pt;">
+  <span style="color: #efc102;"> Fin</span><span style="color: #364048;">Officer</span>
+</div>
+
+yellow
+<div style="background-color: #ff0; font-weight: bolder; font-size:20pt;">
+  <span style="color: #efc102;"> Fin</span><span style="color: #364048;">Officer</span>
+</div>
