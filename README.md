@@ -24,4 +24,13 @@ HTML:
 <div style="background-color: #E71D36;">3</div>
 
 
-Feel free to integrate these code snippets into your HTML document as per your requirements.
+
+<div style="background-color: black;">
+  <span style="color: #509BF5;">Color 1</span>
+  <span style="color: #FCE38A;">Color 2</span>
+</div>
+
+<div style="background-color: black;">
+  <span style="color: #FF6B6B;">Color 1</span>
+  <span style="color: #06D6A0;">Color 2</span>
+</div>
