@@ -66,15 +66,16 @@ HTML:
 </div>
 
 
+
 <hr>
 
 <div style="background-color: white;">
-  <span style="color: white;">Color 1</span>
-  <span style="color: #3B9CFF;">Color 2</span>
+  <span style="color: #1e355e;">Color 1</span>
+  <span style="color: #3fac48;">Color 2</span>
 </div>
 
 
 <div style="background-color: black;">
-  <span style="color: black;">Color 1</span>
-  <span style="color: #FF5500;">Color 2</span>
+  <span style="color: #1e355e;">Color 1</span>
+  <span style="color: #3fac48;">Color 2</span>
 </div>
