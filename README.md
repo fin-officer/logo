@@ -69,16 +69,16 @@ HTML:
 
 <hr>
 
- #1e355e
- #3fac48
+ #1e355e blue
+ #3fac48 green
 
-<div style="background-color: white;">
+<div style="background-color: white; font-weight: bolder; font-size:20pt;">
   <span style="color: #1e355e;">Color 1</span>
   <span style="color: #3fac48;">Color 2</span>
 </div>
 
 
-<div style="background-color: black;">
-  <span style="color: #1e355e;">Color 1</span>
+<div style="background-color: black; font-weight: bolder; font-size:20pt;">
+  <span style="color: white;">Color 1</span>
   <span style="color: #3fac48;">Color 2</span>
 </div>
