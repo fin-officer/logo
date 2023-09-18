@@ -24,6 +24,7 @@ HTML:
 <div style="background-color: #E71D36;">3</div>
 
 
+<hr>
 
 <div style="background-color: black;">
   <span style="color: #509BF5;">Color 1</span>
@@ -49,4 +50,34 @@ HTML:
 <div style="background-color: white;">
   <span style="color: #FF6B6B;">Color 1</span>
   <span style="color: #06D6A0;">Color 2</span>
+</div>
+
+
+
+<hr>
+
+
+<div style="background-color: black;">
+  <span style="color: white;">Color 1</span>
+  <span style="color: #3B9CFF;">Color 2</span>
+</div>
+
+
+<div style="background-color: white;">
+  <span style="color: black;">Color 1</span>
+  <span style="color: #FF5500;">Color 2</span>
+</div>
+
+
+
+
+<div style="background-color: white;">
+  <span style="color: white;">Color 1</span>
+  <span style="color: #3B9CFF;">Color 2</span>
+</div>
+
+
+<div style="background-color: black;">
+  <span style="color: black;">Color 1</span>
+  <span style="color: #FF5500;">Color 2</span>
 </div>
