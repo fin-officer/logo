@@ -69,6 +69,9 @@ HTML:
 
 <hr>
 
+ #1e355e
+ #3fac48
+
 <div style="background-color: white;">
   <span style="color: #1e355e;">Color 1</span>
   <span style="color: #3fac48;">Color 2</span>
