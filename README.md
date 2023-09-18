@@ -1,55 +1,27 @@
-Certainly! Here are the color combinations written in CSS and HTML format:
+Certainly! Here are the three HTML versions for the color combinations:
 
 1. Vibrant and Friendly:
-CSS:
-```css
-:root {
-  --primary-color: #FF6B6B;
-  --secondary-color: #FFD166;
-  --tertiary-color: #06D6A0;
-}
-```
 HTML:
 
-<div style="background-color: var(--primary-color);">1</div>
-<div style="background-color: var(--secondary-color);">2</div>
-<div style="background-color: var(--tertiary-color);">3</div>
+<div style="background-color: #FF6B6B;">1</div>
+<div style="background-color: #FFD166;">2</div>
+<div style="background-color: #06D6A0;">3</div>
 
 
 2. Calm and Approachable:
-CSS:
-```css
-:root {
-  --primary-color: #509BF5;
-  --secondary-color: #FCE38A;
-  --tertiary-color: #AED9E0;
-}
-```
 HTML:
 
-<div style="background-color: var(--primary-color);">1</div>
-<div style="background-color: var(--secondary-color);">2</div>
-<div style="background-color: var(--tertiary-color);">3</div>
-
+<div style="background-color: #509BF5;">1</div>
+<div style="background-color: #FCE38A;">2</div>
+<div style="background-color: #AED9E0;">3</div>
 
 
 3. Modern and Clean:
-CSS:
-```css
-<style>
-:root {
-  --primary-color: #2EC4B6;
-  --secondary-color: #FF9F1C;
-  --tertiary-color: #E71D36;
-}
-</style>
-```
 HTML:
 
+<div style="background-color: #2EC4B6;">1</div>
+<div style="background-color: #FF9F1C;">2</div>
+<div style="background-color: #E71D36;">3</div>
 
-<div style="background-color: var(--primary-color);">1</div>
-<div style="background-color: var(--secondary-color);">2</div>
-<div style="background-color: var(--tertiary-color);">3</div>
 
-
-Feel free to adjust the color values or apply them as needed for your specific logotype design.
+Feel free to integrate these code snippets into your HTML document as per your requirements.
