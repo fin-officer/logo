@@ -86,7 +86,8 @@ blue
 
 + yellow #ff0
 + orange #efc102
-+ gray #364048
++ blue #364048
++ gray #ccc 
 
 
 White
@@ -97,4 +98,20 @@ White
 yellow
 <div style="background-color: #ff0; font-weight: bolder; font-size:20pt;">
   <span style="color: #efc102;"> Fin</span><span style="color: #364048;">Officer</span>
+</div>
+
+blue
+<div style="background-color: #364048; font-weight: bolder; font-size:20pt;">
+  <span style="color: #364048;"> Fin</span><span style="color: #ccc;">Officer</span>
+</div>
+
+blue
+<div style="background-color: #364048; font-weight: bolder; font-size:20pt;">
+  <span style="color: #efc102;"> Fin</span><span style="color: #ff0;">Officer</span>
+</div>
+
+
+black
+<div style="background-color: black; font-weight: bolder; font-size:20pt;">
+  <span style="color: #efc102;"> Fin</span><span style="color: #ff0;">Officer</span>
 </div>
