@@ -1,4 +1,24 @@
-Certainly! Here are the three HTML versions for the color combinations:
+1. Logo or Brand name:
+FinOfficer
+
+3. Tag line or Slogan:
+Encrypted Exchange
+
+5. Preferable Color
+white (on blue background)
+blue #1e355e 
+green #3fac48 
+
+6. short description of your business or product
+   
+FinOfficer refers to a financial officer in an organization, such as a chief financial officer (CFO) or financial manager.
+FinOfficer Saas PLatform is responsible for financial operations such as financial planning, reporting, analysis.
+We provide an encrypted secure layer for exchanging transactions, data, contracts, documents, invoices.
+
+
+
+
+ Here are the three HTML versions for the color combinations:
 
 1. Vibrant and Friendly:
 HTML:
